@@ -1,0 +1,11 @@
+.err {
+    border: 2px solid red;
+}
+
+.bor {
+    outline: 1px solid red;
+}
+
+.bfg {
+    color: red;
+}
